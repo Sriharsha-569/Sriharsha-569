@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Master’s Student | Backend Developer (Python) | Cloud & DevOps (AWS, OCI)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharsha-569" alt="sriharsha-569" /></a> </p>
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sriharsha-569)](https://github.com/stats-organization/github-stats-extended)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sharsha18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharsha18/" height="30" width="40" /></a>
