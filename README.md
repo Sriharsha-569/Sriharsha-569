@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sriharsha Deep Chilakalapudi</h1>
+<h2 align="center">Hi 👋, I'm Sri Harsha Deep Chilakalapudi</h2>
 <h3 align="center">Software Engineering Master’s Student | Backend Developer (Python) | Cloud & DevOps (AWS, OCI)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharsha-569" alt="sriharsha-569" /></a> </p>
